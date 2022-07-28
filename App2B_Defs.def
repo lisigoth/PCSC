@@ -1,0 +1,27 @@
+finV: VBP|VBP-s|VBP-S|VBD|HVP|HVP-s|HVP-S|HVD|DOD|DOP|DOP-s|DOP-S|BEP|BEP-s|BEP-S|BED|MD
+aux: MD|HVP|HVP|HVP-s|HVD|HVI|DOD|DOP|DOP-s|DOP-S|DOI|BEP|BEP-s|BEP-S|BED|BEI|
+nonfin: VB|DO|HV|BE|VAN|VAG|VBN|BEN|BAG|HAN|HAG|HVN|DAN|DAG|DON
+preN: D|WD|ADJ*|Q*|PRO$|N$|NPR$|ONE
+plPRO: Ve|We|Wee|ue|uee|ve|vee|vee?|we|wee|wey|wie|tha\?y|thaj|thai|thay|Thay|They|they|the|yai|yaj|yey|ya|Th|tha|thy|thy_
+1sgPRO: I|aye|I_|I\?|Iw|j
+3sgPRO: It|Itt|It_|it|itt|it?|it_|_it|jt|IT|jt|sche|scho|schoe|schoo|schou|she|she_|shee|sho|shoe|shoo|schow|She|He|he|hee|he_|h\*e\%|he?|hye
+2PRO: yo=w=|yo=u=|you|you\?|you_|youe|yow|yow_|_yow|yowe|yw|z=w=|ze|zee|zei|zo?w?|zou|zow|zow?|zowe|ziow|zw|Yee|You|You_|Yow|Ze|z\*e%|zhe|zie|Zou|zou|zoue|Zow|zo=w=|ye|ye'|yhe|yee
+head-of-full-NP: D|ADJ|ADJ[RS]|Q|Q[RS]|N|NS|NPR|NPRS|PRO$|OTHER
+pray:
+pray|praye|pra|pre|prey|pry|preay|praiand|praya?n?d|prayan?d|prayand'|prayand|praying|prayeing|prayng|preyand|prying|praiis|prayis|prayes|prayst|prays|prayed
+noun:
+N|NS|NPR|NPRS|*[+]N|*[+]NS|*[+]NPR|*[+]NPRS
+KNOW:
+\_know|@knows|cnou|ke\*n%nis|ke\*n%nys|ken|ken'|kene|kenis|kn=\\aus|kna|knau|knaue|knauith|knaus|knav|knavis|knaw|knaw,|knaw\*is%|knaw<lparen>|knawe|knawes|knawis|knawis\*s%|knaws|knaws\*s%|knawys|kneu|knev|knew|knewe|kno|knoe|knoes|knois|knos|knose|knou|knoue|knoues|knous|knov|knove|knovs|know|know,|know??|knowe|knowe-|knowes|knoweth|knowethe|knows|wit|Know|Knows
+DOUBT:
+dout|doutt|dowt|doubt|doubted|doubts|dougt|dout*|doutes|doutis|douts|dowbt|dowit|dowtt\*is%|Doubt
+TROW:
+find|fand|fynd|found|finde|trow|findis|find\*is%|finds|fined|fund|fynd'|fynd\*is%|fynde|fyndis|faind|ffynd|Findis
+FEAR:
+fear|feare|feir|dreid|feard|feared|fears|feiar|fer|fere|feres|feyir|feyr'|ffeare
+HOPE:
+ho=\\uep|hop|hope|hope,|houp|hoip|hoipe|hoop|hopes|\_hope|hoiped|hoipes|hoipis|hoope|hope?|hoped|hoppis|hops|hopt|houpis|houps|howp|howpe
+DESIRE:
+\_dissign|\_will|\_wish|desayer|desayn|desayr|desayres|desi?er*|desi?re*|desier|desier?|desiers|design|designd|designe|designed|designes|designs|desine|desines|desir|desir*is%|desird|desire|desired|desires|desiris|desirit|desirs|dessyirit|dessyirrit|dessyr|destroyd|desy???*|desyir|desyn|desynd|desyr|desyre|desyre*d|desyred|desyres|desyris|desyrit|desyrit?|desyrs|desyrs,|dis\\ayrd|disa?i?*r*|disair|disaird|disairs|disaynd|disayrd|disayres|disire|disiyer|disser|dissers|dissiris|disyr|dysirit|dyssy\*ir%\*is%|uesed|uiesh|uill|uish|uish*is%|uishe|vald.|vil|vill|villed|vis|vish|visis|w?i?shis|wald'|wan?tit|want|wanted|wants|wel|wel\_|well|weshes|wile|will|will<rparen>|willed|wis|wisch|wische|wise|wises|wish|wish|wishe|wished|wishes|wishess|wisht|wiss|wisshes|wissies|wissis|wyll|Desire|Desiris|Desirit|Desyre
+THINK:
+\_think|thenk|thenks|thin?k?|thin*k|thin*ks|thinc|thinck|thincke|thinckes|thing|thing\*is%|think|thinke|thinke?|thinkes|thinkis|thinks|thinks*|tho=t=|thoc??|thocht|thoght|thoght?|thoght<lparen>|thoiht|thoucht|thoug\\ht|though|thought|thout|thowght|thoy=t=|thoycht|thynk|thynk\*is%|thynkis|thynkk\*is%|toght|Think|Thocht|
