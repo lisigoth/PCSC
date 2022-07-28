@@ -11,12 +11,14 @@ Extralinguistic information about all letters in the PCSC, as described in Chapt
 "App2A_NSR_and_do_query.c"<br>
 "App2B_Defs.def"<br>
 "App2C_NSR_and_do_data.csv"<br>
-Coding query and query output (coding strings only) for the case study in Chapter 4 and two parts of the case study in Chapter 5 (as presented in 5.1 and 5.3 of Ch. 5). <br>
+Coding query and query output (coding strings only) for the case study in Chapter 4 and two parts of the case study in Chapter 5 (as presented in 5.1.2 and 5.3 of Ch. 5). <br>
 Definition file for the studies in Chapter 4 and 5. <br>
 
 <b>Appendix3</b><br>
-"App3A_Int_do_query.c"<br>
-"App3B_Int_do_data.csv"<br>
+"App_3A_question_query.c"
+Coding query for one part of the case study in chapter 5 (as presented in 5.1.1)
+"App3B_Int_do_query.c"<br>
+"App3C_Int_do_data.csv"<br>
 Coding query and query output (coding strings only) for the final part of the case study in Chapter 5 (as presented in 5.3 of Ch.5)<br>
 
 <b>Appendix4</b><br>
